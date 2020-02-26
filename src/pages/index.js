@@ -115,13 +115,13 @@ class Index extends React.Component {
 
                 <p>
                 <button>
-                <a href='https://github.com/DIYMask/manual/raw/master/src/assets/images/pattern/Mask%20pattern_baby%20xxs%20(update).jpg' download>jpg (Updated Version) </a>
+                <a href='https://github.com/DIYMask/DIYmask.github.io/raw/pattern/src/assets/images/pattern/Mask%20pattern_baby%20xxs%20(update).jpg' download>jpg (Updated Version) </a>
                 </button>
  
                 </p>
                 <p>
                 <button>
-                  <a href='https://github.com/DIYMask/manual/raw/master/src/assets/images/pattern/Mask%20pattern_baby%20xxs%20(update).pdf' download>pdf (Updated Version) </a>
+                  <a href='https://github.com/DIYMask/DIYmask.github.io/raw/pattern/src/assets/images/pattern/Mask%20pattern_baby%20xxs%20(update).pdf' download>pdf (Updated Version) </a>
                   </button>
                 </p>
               </li>
@@ -134,13 +134,13 @@ class Index extends React.Component {
                 <h3>Kids XS 小童 加細碼</h3>
                 <p>
                 <button>
-                <a href='https://github.com/DIYMask/manual/raw/master/src/assets/images/pattern/Mask%20pattern_Kids%20XS%20(update).jpg' download>jpg (Updated Version) </a>
+                <a href='https://github.com/DIYMask/DIYmask.github.io/raw/pattern/src/assets/images/pattern/Mask%20pattern_Kids%20XS%20(update).jpg' download>jpg (Updated Version) </a>
                 </button>
  
                 </p>
                 <p>
                 <button>
-                  <a href='https://github.com/DIYMask/manual/raw/master/src/assets/images/pattern/Mask%20pattern_Kids%20XS%20(update).pdf' download>pdf (Updated Version) </a>
+                  <a href='https://github.com/DIYMask/DIYmask.github.io/raw/pattern/src/assets/images/pattern/Mask%20pattern_Kids%20XS%20(update).pdf' download>pdf (Updated Version) </a>
                   </button>
                 </p>
               </li>
@@ -149,16 +149,16 @@ class Index extends React.Component {
               <FontAwesomeIcon icon={faUserFriends} size="3x" />  
                  
                  <p></p>
-                <h3>Teenagers M 青年 中碼</h3>
+                <h3>Teenagers S 青年 細碼</h3>
                 <p>
                 <button>
-                <a href='https://github.com/DIYMask/manual/raw/master/src/assets/images/pattern/Mask%20pattern_Teens%20S%20(update).jpg' download>jpg (Updated Version) </a>
+                <a href='https://github.com/DIYMask/DIYmask.github.io/raw/pattern/src/assets/images/pattern/Mask%20pattern_Teens%20S%20(update).jpg' download>jpg (Updated Version) </a>
                 </button>
  
                 </p>
                 <p>
                 <button>
-                  <a href='https://github.com/DIYMask/manual/raw/master/src/assets/images/pattern/Mask%20pattern_Teens%20S%20(update).pdf' download>pdf (Updated Version) </a>
+                  <a href='https://github.com/DIYMask/DIYmask.github.io/raw/pattern/src/assets/images/pattern/Mask%20pattern_Teens%20S%20(update).pdf' download>pdf (Updated Version) </a>
                   </button>
                 </p>
               </li>
@@ -170,13 +170,13 @@ class Index extends React.Component {
                 <h3>Ladies M 女士 中碼</h3>
                 <p>
                 <button>
-                <a href='https://github.com/DIYMask/manual/raw/master/src/assets/images/pattern/Mask%20pattern_Ladies%20M%20(update).jpg' download>jpg (Updated Version) </a>
+                <a href='https://github.com/DIYMask/DIYmask.github.io/raw/pattern/src/assets/images/pattern/Mask%20pattern_Ladies%20M%20(update).jpg' download>jpg (Updated Version) </a>
                 </button>
  
                 </p>
                 <p>
                 <button>
-                  <a href='https://github.com/DIYMask/manual/raw/master/src/assets/images/pattern/Mask%20pattern_Ladies%20M%20(update).pdf' download>pdf (Updated Version) </a>
+                  <a href='https://github.com/DIYMask/DIYmask.github.io/raw/pattern/src/assets/images/pattern/Mask%20pattern_Ladies%20M%20(update).pdf' download>pdf (Updated Version) </a>
                   </button>
                 </p>
               </li>
@@ -185,16 +185,16 @@ class Index extends React.Component {
               <FontAwesomeIcon icon={faMars} size="3x" />  
                  
                  <p></p>
-                <h3>Men M 男士大碼</h3>
+                <h3>Men M 男士 大碼</h3>
                 <p>
                 <button>
-                <a href='https://github.com/DIYMask/manual/raw/master/src/assets/images/pattern/Mask%20pattern_Men%20Large%20(update).jpg' download>jpg (Updated Version) </a>
+                <a href='https://github.com/DIYMask/DIYmask.github.io/raw/pattern/src/assets/images/pattern/Mask%20pattern_Men%20Large%20(update).jpg' download>jpg (Updated Version) </a>
                 </button>
  
                 </p>
                 <p>
                 <button>
-                  <a href='https://github.com/DIYMask/manual/raw/master/src/assets/images/pattern/Mask%20pattern_Men%20Large%20(update).pdf' download>pdf (Updated Version) </a>
+                  <a href='https://github.com/DIYMask/DIYmask.github.io/raw/pattern/src/assets/images/pattern/Mask%20pattern_Men%20Large%20(update).pdf' download>pdf (Updated Version) </a>
                   </button>
                 </p>
               </li>
@@ -327,7 +327,7 @@ class Index extends React.Component {
               </li>
               <li className="style3">
                 <span className="icon fa-recycle"></span>
-                <strong>Infinite <br/> 無限次</strong> Mask Cover Cycle <br/> 口罩套重用次數
+                <strong>Infinite <br/> 無限次</strong> Mask Cover Cycle <br/> 口罩套重用次數 &#40; 清洗過後 &#41;
               </li>
               <li className="style4">
                 <span className="icon fa-cut"></span>
