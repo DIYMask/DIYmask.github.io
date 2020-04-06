@@ -1,0 +1,29 @@
+@mixin fb-icon {
+  color: $white;
+  background-color: #3b5998;
+  border-color: #3b5998;
+  font-weight: bold;
+
+  &:hover {
+    color: $white;
+  }
+}
+
+.btn-fb {
+  @include fb-icon;
+}
+
+.btn-twitter {
+  color: $white;
+  background-color: #55acee;
+  border-color: rgba(0, 0, 0, 0.2);
+}
+
+.btn-fb-logo {
+  color: #3b5998;
+  padding: 0 !important;
+
+  &:hover {
+    color: #3b5998;
+  }
+}

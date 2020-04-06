@@ -1,0 +1,20 @@
+.filter {
+  &-title {
+    font-size: 1.5rem;
+    @media (min-width: 768px) {
+      font-size: 3rem;
+    }
+  }
+  mark {
+    line-height: 1.45;
+  }
+
+  &-formula {
+    &-text {
+      font-size: 1.5rem;
+      @media (min-width: 768px) {
+        font-size: 3rem;
+      }
+    }
+  }
+}

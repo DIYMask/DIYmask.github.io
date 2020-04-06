@@ -1,6 +1,6 @@
 // Bootstrap overrides for this template
 a {
-  color: $primary;
+  color: #18bc9c;
   &:focus,
   &:hover,
   &:active {
@@ -25,7 +25,7 @@ a {
 }
 
 .text-secondary {
-  color: $secondary !important;
+  color: $dark-blue !important;
 }
 
 .btn-primary {
