@@ -49,3 +49,23 @@ a {
     border-color: darken($secondary, 10%);
   }
 }
+
+.carousel-item {
+  max-height: 12.8rem;
+
+  @media only screen and (min-width: 768px) {
+    max-height: 30.6rem;
+  }
+
+  img {
+    display: block;
+    width: auto;
+    height: auto;
+    max-height: 12.8rem;
+    margin: 0 auto;
+
+    @media only screen and (min-width: 768px) {
+      max-height: 30.6rem;
+    }
+  }
+}

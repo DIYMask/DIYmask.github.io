@@ -448,3 +448,27 @@ a:focus, a:hover, a:active {
   background-color: #e6e6e6;
   border-color: #e6e6e6;
 }
+
+.carousel-item {
+  max-height: 12.8rem;
+}
+
+@media only screen and (min-width: 768px) {
+  .carousel-item {
+    max-height: 30.6rem;
+  }
+}
+
+.carousel-item img {
+  display: block;
+  width: auto;
+  height: auto;
+  max-height: 12.8rem;
+  margin: 0 auto;
+}
+
+@media only screen and (min-width: 768px) {
+  .carousel-item img {
+    max-height: 30.6rem;
+  }
+}
