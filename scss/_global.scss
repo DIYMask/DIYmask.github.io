@@ -22,6 +22,10 @@ h6 {
   @include heading-font;
 }
 
+p {
+  line-height: 1.45;
+}
+
 // Custom Horizontal Rule with Star Icon
 hr.star-light,
 hr.star-dark {

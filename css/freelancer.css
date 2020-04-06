@@ -28,6 +28,10 @@ h6 {
   font-family: 'Montserrat';
 }
 
+p {
+  line-height: 1.45;
+}
+
 hr.star-light,
 hr.star-dark {
   max-width: 15rem;
@@ -306,6 +310,30 @@ header.masthead h2 {
 
 .measure-item-body-title {
   margin-bottom: 0.5em;
+}
+
+.filter-title {
+  font-size: 1.5rem;
+}
+
+@media (min-width: 768px) {
+  .filter-title {
+    font-size: 3rem;
+  }
+}
+
+.filter mark {
+  line-height: 1.45;
+}
+
+.filter-formula-text {
+  font-size: 1.5rem;
+}
+
+@media (min-width: 768px) {
+  .filter-formula-text {
+    font-size: 3rem;
+  }
 }
 
 .floating-label-form-group {
