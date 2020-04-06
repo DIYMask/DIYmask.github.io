@@ -1,7 +1,15 @@
 // Typography
 body {
   @include body-font;
+  width: 100%;
+  height: 100%;
   line-height: 1.45;
+}
+
+body,
+html {
+  margin: 0;
+  padding: 0;
   overflow-x: hidden;
 }
 
