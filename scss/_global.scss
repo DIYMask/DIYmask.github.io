@@ -2,6 +2,7 @@
 body {
   @include body-font;
   line-height: 1.45;
+  overflow-x: hidden;
 }
 
 h1,

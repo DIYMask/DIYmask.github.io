@@ -7,6 +7,7 @@
 body {
   font-family: 'Lato';
   line-height: 1.45;
+  overflow-x: hidden;
 }
 
 h1,
@@ -190,6 +191,10 @@ section h2 {
   font-weight: bold;
 }
 
+.btn-fb:hover {
+  color: #fff;
+}
+
 .btn-twitter {
   color: #fff;
   background-color: #55acee;
@@ -199,6 +204,10 @@ section h2 {
 .btn-fb-logo {
   color: #3b5998;
   padding: 0 !important;
+}
+
+.btn-fb-logo:hover {
+  color: #3b5998;
 }
 
 header.masthead {
@@ -230,14 +239,18 @@ header.masthead h2 {
   }
 }
 
-.faq iframe {
+.FAQ iframe {
   max-width: 100% !important;
+  margin: 0 auto;
+  background: white;
 }
 
-.measure .measure-item:nth-child(2n + 1) .measure-item-img {
-  -webkit-box-ordinal-group: 2;
-  -ms-flex-order: 1;
-  order: 1;
+@media (min-width: 768px) {
+  .measure .measure-item:nth-child(2n + 1) .measure-item-img {
+    -webkit-box-ordinal-group: 2;
+    -ms-flex-order: 1;
+    order: 1;
+  }
 }
 
 .measure-item {
@@ -262,15 +275,13 @@ header.masthead h2 {
 
 .measure-item-img {
   display: block;
-  width: 100%;
-  max-width: 100%;
+  width: 150px;
   height: auto;
   margin: 0 0 1em 0;
 }
 
 @media (min-width: 768px) {
   .measure-item-img {
-    width: 150px;
     margin: 0 2em 0 0;
   }
 }
@@ -355,7 +366,7 @@ form .row:first-child .floating-label-form-group {
 }
 
 a {
-  color: #ef8d1f;
+  color: #18bc9c;
 }
 
 a:focus, a:hover, a:active {
