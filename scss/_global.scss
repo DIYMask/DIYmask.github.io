@@ -1,6 +1,7 @@
 // Typography
 body {
   @include body-font;
+  line-height: 1.45;
 }
 
 h1,
@@ -29,11 +30,11 @@ hr.star-dark {
 hr.star-light:after,
 hr.star-dark:after {
   position: relative;
-  top: -.8em;
+  top: -0.8em;
   display: inline-block;
   padding: 0 0.25em;
   content: '\f005';
-  font-family: "Font Awesome 5 Free";
+  font-family: 'Font Awesome 5 Free';
   font-weight: 900;
   font-size: 2em;
 }
@@ -56,15 +57,17 @@ hr.star-dark:after {
 
 // Section Padding Settings
 section {
-  padding: 6rem 0;
+  padding: 2rem 0;
+
+  @media (min-width: 992px) {
+    padding: 6rem 0;
+  }
+
   h2 {
     font-size: 2.25rem;
-    line-height: 2rem;
-  }
-  @media (min-width: 992px) {
-    h2 {
+
+    @media (min-width: 992px) {
       font-size: 3rem;
-      line-height: 2.5rem;
     }
   }
 }
