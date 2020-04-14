@@ -1,7 +1,7 @@
 # HKMask (Unofficial) Manual
 > Reusable Mask + Kitchen Towel Paper ~= N70 Mask
 
-![](image/HKMask_logo.jpg)
+![](img/HKMask_logo.jpg)
 
 ## Contributing / Translating
 1. Please leave contact to https://github.com/DIYMask/DIYmask.github.io/issues
