@@ -3,6 +3,8 @@
 
 ![](https://raw.githubusercontent.com/DIYMask/DIYmask.github.io/master/img/HKMask_Logo.jpg)
 
+![](https://raw.githubusercontent.com/DIYMask/DIYmask.github.io/version2/img/Filter_explain-04.png)
+
 ## Contributing / Translating
 1. Please leave contact to https://github.com/DIYMask/DIYmask.github.io/issues
 
